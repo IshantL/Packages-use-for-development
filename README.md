@@ -10,3 +10,7 @@
 ## JsonwebToken
 ## mongoose - layer to interact with mongo db
 ## request - to make request to other API
+
+# Dev Dependencies
+## nodemon - to run sserver when file changes ,no need to start it everytime
+## concurrently - run both client side and backend concurrently
